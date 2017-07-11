@@ -1,0 +1,17 @@
+var myNumber = 58;
+myNumber = 'hello';
+var myName = 'Jess';
+myName = 'Carl';
+var isHungry = false;
+isHungry = true;
+var person = {};
+var myAnything = {};
+myAnything = 'Hello';
+myAnything = 999;
+var myEmptyThang = null;
+myEmptyThang = undefined;
+var myList = ['parmigianna', 'cordon bleu', 'chicken sandwich'];
+var myOtherList = ['eggplant parmigiana', 'hummus', 'chickpea curry'];
+var myNumberList;
+var myOtherNumbers;
+myOtherNumbers = [99, 88, 77, 11, true];
